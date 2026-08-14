@@ -133,7 +133,7 @@ The dashboard was designed with a focus on:
 
 ## 📸 Dashboard Preview
 
-![Maven Market Sales Dashboard](dashboard.png)
+![Maven Market Sales Dashboard](Screenshot Of Dashboard.png)
 
 ## 👨‍💻 Author
 
